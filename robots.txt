@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow: 
+
+Sitemap: http://colinbeal.github.io/sitemap.xml
+
+
