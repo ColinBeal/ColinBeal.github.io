@@ -1,0 +1,13 @@
+body{
+    margin: auto;
+    background-image: url("../images/fond.jpg");
+    background-size: cover;
+    font:15px "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+canvas{
+    margin-top: 40%;
+    margin-left: 20%;
+}
+.entete {
+    color: #ab822c;
+}
