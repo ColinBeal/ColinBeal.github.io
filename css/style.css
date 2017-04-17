@@ -55,9 +55,8 @@ background-color: #ffffff;
 
 
 .img{
-    padding: 10px;
-    border-style: solid;
-    border-color: #454eea;
+    border-style: solid !important;
+    border-color: #454eea !important;
 }
 
 .button{
