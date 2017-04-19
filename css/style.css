@@ -8,18 +8,7 @@ body {
 }
 
 .main {
-background-color: #ffffff;
- /*   background: rgba(235,235,235,1);
-    background: -moz-linear-gradient(left, rgba(235,235,235,1) 0%, rgb(145, 145, 145) 18%, rgba(145,145,145,1) 50%, rgba(145,145,145,1) 59%, rgba(145,145,145,1) 71%, rgba(145,145,145,1) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(235,235,235,1)), color-stop(18%, rgba(145,145,145,1)), color-stop(50%, rgba(145,145,145,1)), color-stop(59%, rgba(145,145,145,1)), color-stop(71%, rgba(145,145,145,1)), color-stop(100%, rgba(145,145,145,1)));
-    background: -webkit-linear-gradient(left, rgba(235,235,235,1) 0%, rgba(145,145,145,1) 18%, rgba(145,145,145,1) 50%, rgba(145,145,145,1) 59%, rgba(145,145,145,1) 71%, rgba(145,145,145,1) 100%);
-    background: -o-linear-gradient(left, rgba(235,235,235,1) 0%, rgba(145,145,145,1) 18%, rgba(145,145,145,1) 50%, rgba(145,145,145,1) 59%, rgba(145,145,145,1) 71%, rgba(145,145,145,1) 100%);
-    background: -ms-linear-gradient(left, rgba(235,235,235,1) 0%, rgba(145,145,145,1) 18%, rgba(145,145,145,1) 50%, rgba(145,145,145,1) 59%, rgba(145,145,145,1) 71%, rgba(145,145,145,1) 100%);
-    background: linear-gradient(to right, rgba(235,235,235,1) 0%, rgba(145,145,145,1) 18%, rgba(145,145,145,1) 50%, rgba(145,145,145,1) 59%, rgba(145,145,145,1) 71%, rgba(145,145,145,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebebeb', endColorstr='#919191', GradientType=1 );
-    */
-
-
+    background-color: #ffffff;
     width: 90%;
     margin-top: 3%;
     text-align: justify;
@@ -117,7 +106,6 @@ h2{
 }
 i {
     color: #454eea;
-
     cursor: pointer;
 }
 
@@ -134,20 +122,13 @@ i {
 }
 
 .liens{
-    background-color: rgba(69, 78, 234, 0.3);
-   width: 200%;
-    height:200%;
+    background-color: #454eea ;
 }
 li{
     text-transform: uppercase;
-
     font-family: 'Anton', sans-serif;
     font-size: 45px;
-
     list-style-type: none;
-
-
-
 }
 a
 {
@@ -161,15 +142,8 @@ a
 
 }
 
-hr {
-    border: 0px solid;
-    height: 2px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(69, 78, 234, 0.75), rgba(0, 0, 0, 0));
-    margin: 32px 0px;
-    display: block;
-}
+
 .cv{
     color: #494a47;
-
     cursor: pointer;
 }
