@@ -169,7 +169,7 @@ a
 
 .projectlink {
   text-transform: uppercase;
-  color:  #2d2d2d;
+  color:  #454eea;
   font-family: 'Montserrat', sans-serif;;
   font-size: 16px;
 
@@ -188,4 +188,10 @@ h3{
   color: #2d2d2d;
   font-family: 'Montserrat', sans-serif;;
   font-size: 20px;
+}
+.link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  border-color: #454eea;
+  border-bottom: 2px ;
 }

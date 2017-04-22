@@ -1,0 +1,49 @@
+<div class="row">
+  <div class="col-md-5 real">
+      <div class="owl-carousel owl-theme">
+          <div> <img src="images/4.jpg" class="img-responsive"> </div>
+          <div> <img src="images/5.jpg" class="img-responsive"> </div>
+          <div> <img src="images/6.jpg" class="img-responsive"> </div>
+      </div>
+      <h3>Site web du 21ème congrès national d'apiculture</h3>
+      <hr/>
+      <p>J'ai travaillé sur ce site web en fin de 1ère année de mon DUT pendant deux semaines en binome, le travail içi était de mettre en forme le theme wordpress et d'insérer des articles.</p>
+        <a class="button" href="http://www.congres-national-apiculture.com" target="_blank" ><i class="fa fa-location-arrow" id="show"></i></a>
+  </div>
+  <div class="col-md-2"></div>
+  <div class="col-md-5 real">
+      <div class="owl-carousel owl-theme">
+          <div> <img src="images/7.jpg" class="img-responsive"> </div>
+          <div> <img src="images/8.jpg" class="img-responsive"> </div>
+          <div> <img src="images/9.jpg" class="img-responsive"> </div>
+      </div>
+      <h3>Site web Espanolisimo</h3>
+      <hr/>
+      <p>Je travail sur ce site web depuis début novembre en binome, içi il est question de créer un site web convivial qui regroupe le travail des étudiants en espagnol, qui se présente le plus souvent sous forme de jeux. </p>
+      <a class="button" href="http://www.espanolisimo.fr" target="_blank" ><i class="fa fa-location-arrow" id="show"></i></a>
+  </div>
+</div>
+  </br>
+  <div class="row">
+      <div class="col-md-5 real">
+
+          <div class="owl-carousel owl-theme">
+              <div> <img src="images/10.jpg" class="img-responsive"> </div>
+              <div> <img src="images/11.jpg" class="img-responsive"> </div>
+          </div>
+          <h3>Application web pour le site des arts d'asie et d'afrique</h3>
+          <hr/>
+          <p>J'ai créer cette activitée pour le projet d'art de cette année, il était question de créer une installation qui pourrait s'insérer à l'exposition remue-méninges. Ici j'ai repris les oeuvres exposer sous forme de puzzle intéractif pour rester dans l'esprit de l'exposition.</p>
+          <a class="button" href="Puzzle/index.html" target="_blank" ><i class="fa fa-location-arrow" id="show"></i></a>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-md-5 real">
+
+             <img src="images/12.jpg" class="img-responsive">
+
+          <h3>Site web Wahou!</h3>
+          <hr/>
+          <p>Ce site est un projet personnel, il ma permis de faire mes premiers essais en javascript,il est aujourd'hui un peu obsolète mais il devrait évoluer sous peu. </p>
+          <a class="button" href="Wahou/index.html" target="_blank" ><i class="fa fa-location-arrow" id="show"></i></a>
+      </div>
+  </div>
