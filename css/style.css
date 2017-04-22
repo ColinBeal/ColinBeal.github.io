@@ -15,10 +15,21 @@ body {
 }
 
 .maintext {
-    text-shadow: -1px -1px #4d4d4d;
+
     text-transform: uppercase;
     color: #454eea;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 44px;
+    text-align: center;
+    animation-duration: 5s;
+    animation-name: slidein;
+
+}
+.maintext4 {
+
+    text-transform: uppercase;
+    color: #A1A1A1;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 44px;
     text-align: center;
     animation-duration: 5s;
@@ -46,7 +57,7 @@ body {
 .img{
     border-style: solid !important;
     border-color: #454eea !important;
-    border: 2px;
+    border : 4px ;
 }
 
 .button{
@@ -94,9 +105,9 @@ body {
 h2{
     text-transform: uppercase;
     color: #454eea;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 44px;
-    text-align: center;
+    text-align: left;
 }
 
 .un {
@@ -146,4 +157,35 @@ a
 .cv{
     color: #494a47;
     cursor: pointer;
+}
+.logo {
+  border: 4px;
+  border-style: solid;
+  border-color: #454eea;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px ;
+  text-align: center;
+}
+
+.projectlink {
+  text-transform: uppercase;
+  color:  #2d2d2d;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 16px;
+
+}
+.projectlink:hover{
+  color :#454eea;
+  text-decoration: none;
+}
+.date{
+  font-size: 20px;
+  color: #494a47;
+  font-family: 'Abel', sans-serif;
+}
+h3{
+
+  color: #2d2d2d;
+  font-family: 'Montserrat', sans-serif;;
+  font-size: 20px;
 }
