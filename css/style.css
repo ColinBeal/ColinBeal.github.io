@@ -3,7 +3,7 @@ body {
     background-size: cover;
     position: relative;
     height: 100vh;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Istok Web', sans-serif;
     background-color: #ffffff;
 
 }
@@ -18,7 +18,7 @@ body {
 .maintext {
 
     text-transform: uppercase;
-    color:#454eea;
+    color:#5f48f2;
     font-family: 'Montserrat', sans-serif;;
     font-size: 44px;
     text-align: center;
@@ -30,8 +30,9 @@ body {
 
     text-transform: uppercase;
     color: #A1A1A1;
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Istok Web', sans-serif;;
     font-size: 44px;
+    font-weight: 700;
     text-align: center;
     animation-duration: 5s;
     animation-name: slidein;
@@ -40,7 +41,7 @@ body {
 .maintext2 {
     text-transform: uppercase;
     color: #4d4d4d;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Istok Web', sans-serif;
     font-size: 44px;
     animation-duration: 3s;
     animation-name: slidein;
@@ -48,34 +49,15 @@ body {
 .maintext3 {
     font-size: 20px;
     color: #494a47;
-    font-family: 'Abel', sans-serif;
+    font-family: 'Istok Web', sans-serif;
     animation-duration: 7s;
     animation-name: slidein;
 
 }
 
 
-.img{
-    border-style: solid !important;
-    border-color:#454eea!important;
-    border : 4px ;
-}
 
-.button{
-    font-family: 'Abel', sans-serif;
-    font-size: 25px;
-    color: rgba(69, 78, 234);
-    border-style: solid;
-    border-color:#454eea;
-    display: block;
-    margin: auto;
-    width: 20%;
-    margin-bottom: 2px;
-    text-decoration: none;
-    cursor: pointer;
-    text-align: center;
 
-}
 
 .aprop {
     background-color: #ffffff;
@@ -97,33 +79,28 @@ body {
     }
 }
 
-.ico {
-    width: 80px;
-    height: 80px;
-    padding: 5px;
-}
+
 
 h2{
     text-transform: uppercase;
-    color:#454eea;
+    color:#5f48f2;
     font-family: 'Montserrat', sans-serif;
     font-size: 44px;
     text-align: left;
 }
 
 .un {
-    color:#454eea;
-    padding-top: 5px;
+    color: black;
+    padding-top: 10px;
     cursor: pointer;
+    font-size: 22px;
 }
 i {
-    color:#454eea;
+    color:#5f48f2;
     cursor: pointer;
 }
 
-.mail{
-    visibility:hidden;
-}
+
 
 .menu{
     left:40%;
@@ -134,11 +111,11 @@ i {
 }
 
 .liens{
-    background-color:#454eea;
+    background-color:#5f48f2;
 }
 li{
     text-transform: uppercase;
-    font-family: 'Anton', sans-serif;
+    font-family: 'Istok Web', sans-serif;
     font-size: 45px;
     list-style-type: none;
 }
@@ -150,7 +127,7 @@ a
 
 .real {
     border-style: solid;
-    border-color:#454eea;
+    border-color:#5f48f2;
 
 }
 
@@ -162,7 +139,7 @@ a
 .logo {
   border: 4px;
   border-style: solid;
-  border-color:#454eea;
+  border-color:#5f48f2;
   font-family: 'Montserrat', sans-serif;
   font-size: 28px ;
   text-align: center;
@@ -170,7 +147,7 @@ a
 
 .projectlink {
   text-transform: uppercase;
-  color: #454eea;
+  color: #5f48f2;
   font-family: 'Montserrat', sans-serif;;
   font-size: 16px;
 
@@ -179,7 +156,7 @@ a
 .date{
   font-size: 20px;
   color: #494a47;
-  font-family: 'Abel', sans-serif;
+  font-family: 'Istok Web', sans-serif;
 }
 h3{
 
@@ -190,7 +167,7 @@ h3{
 .link{
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  border-bottom: 4px solid#454eea;
+  border-bottom: 4px solid#5f48f2;
 
 }
 a:hover{
