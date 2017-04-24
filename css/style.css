@@ -4,6 +4,7 @@ body {
     position: relative;
     height: 100vh;
     font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
 
 }
 
@@ -17,7 +18,7 @@ body {
 .maintext {
 
     text-transform: uppercase;
-    color: #454eea;
+    color:#454eea;
     font-family: 'Montserrat', sans-serif;;
     font-size: 44px;
     text-align: center;
@@ -56,7 +57,7 @@ body {
 
 .img{
     border-style: solid !important;
-    border-color: #454eea !important;
+    border-color:#454eea!important;
     border : 4px ;
 }
 
@@ -65,7 +66,7 @@ body {
     font-size: 25px;
     color: rgba(69, 78, 234);
     border-style: solid;
-    border-color: #454eea;
+    border-color:#454eea;
     display: block;
     margin: auto;
     width: 20%;
@@ -104,19 +105,19 @@ body {
 
 h2{
     text-transform: uppercase;
-    color: #454eea;
+    color:#454eea;
     font-family: 'Montserrat', sans-serif;
     font-size: 44px;
     text-align: left;
 }
 
 .un {
-    color: #454eea;
-    padding-top: 30px;
+    color:#454eea;
+    padding-top: 5px;
     cursor: pointer;
 }
 i {
-    color: #454eea;
+    color:#454eea;
     cursor: pointer;
 }
 
@@ -133,7 +134,7 @@ i {
 }
 
 .liens{
-    background-color: #454eea ;
+    background-color:#454eea;
 }
 li{
     text-transform: uppercase;
@@ -149,7 +150,7 @@ a
 
 .real {
     border-style: solid;
-    border-color: #454eea;
+    border-color:#454eea;
 
 }
 
@@ -161,7 +162,7 @@ a
 .logo {
   border: 4px;
   border-style: solid;
-  border-color: #454eea;
+  border-color:#454eea;
   font-family: 'Montserrat', sans-serif;
   font-size: 28px ;
   text-align: center;
@@ -169,15 +170,12 @@ a
 
 .projectlink {
   text-transform: uppercase;
-  color:  #454eea;
+  color: #454eea;
   font-family: 'Montserrat', sans-serif;;
   font-size: 16px;
 
 }
-.projectlink:hover{
-  color :#454eea;
-  text-decoration: none;
-}
+
 .date{
   font-size: 20px;
   color: #494a47;
@@ -192,6 +190,14 @@ h3{
 .link{
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  border-color: #454eea;
-  border-bottom: 2px ;
+  border-bottom: 4px solid#454eea;
+
+}
+a:hover{
+  text-decoration: none;
+  color :#7e84e7;
+}
+.link:hover{
+    border-bottom: 4px solid #7e84e7;
+  color :#7e84e7;
 }
