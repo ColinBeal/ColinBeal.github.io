@@ -47,3 +47,26 @@
           <a class="button" href="Wahou/index.html" target="_blank" ><i class="fa fa-location-arrow" id="show"></i></a>
       </div>
   </div>
+
+
+  <div class="row">
+      <div class="col-md-3  ">
+  <img src="images/photo.png" alt="photo colin" class="img-responsive" >
+      </div>
+      <div class="col-md-6">
+          <span class="maintext">COLIN. BEAL</span>
+              </br>
+              <span class="maintext4">19ans</span>
+              </br>
+              <span class="maintext4">Developpeur web  </span>
+              </br>
+              <span class="maintext3">HTML / CSS / Javascript / PHP / MySQL</span>
+              </br>
+          <a href="https://fr.wikipedia.org/wiki/France" target="_blank"><i class="fa fa-map-marker fa-2x un" >  France</i></a>
+          </br>
+          <i class="fa fa-envelope-o fa-2x un">  colinbealwork@gmail.com</i>
+          </br>
+          <a href="https://github.com/ColinBeal" target="_blank" ><i class="fa fa-github fa-2x un">github.com/ColinBeal</i></a>
+
+      </div>
+  </div>

@@ -22,7 +22,7 @@ function overlay() {
 }
 
 function fwdimage(){
-    document.getElementById('hero').style.backgroundImage = "url('images/forest3.jpg')";
+    document.getElementById('hero').style.backgroundImage = "url('images/church1.jpg')";
 }
 function rwdimage(){
     document.getElementById('hero').style.backgroundImage = "url('images/forest2.jpg')";

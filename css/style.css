@@ -3,7 +3,7 @@ body {
     background-size: cover;
     position: relative;
     height: 100vh;
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Domine', sans-serif;
     background-color: #ffffff;
 
 }
@@ -30,7 +30,7 @@ body {
 
     text-transform: uppercase;
     color: #A1A1A1;
-    font-family: 'Istok Web', sans-serif;;
+    font-family: 'Domine', sans-serif;;
     font-size: 44px;
     font-weight: 700;
     text-align: center;
@@ -38,10 +38,32 @@ body {
     animation-name: slidein;
 
 }
+.maintext4 {
+
+    text-transform: uppercase;
+    color: #A1A1A1;
+    font-family: 'Domine', sans-serif;;
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+    animation-duration: 5s;
+    animation-name: slidein;
+
+}
+.maintext5 {
+
+
+    color: #2d2d2d;
+    font-family: 'Domine', sans-serif;;
+    font-size: 34px;
+    font-weight: 700;
+
+
+}
 .maintext2 {
     text-transform: uppercase;
     color: #4d4d4d;
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Domine', sans-serif;
     font-size: 44px;
     animation-duration: 3s;
     animation-name: slidein;
@@ -49,7 +71,7 @@ body {
 .maintext3 {
     font-size: 20px;
     color: #494a47;
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Domine', sans-serif;
     animation-duration: 7s;
     animation-name: slidein;
 
@@ -78,7 +100,9 @@ body {
         width: 0%;
     }
 }
-
+.blue{
+  color: #5f48f2;
+}
 
 
 h2{
@@ -87,8 +111,11 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 44px;
     text-align: left;
-}
 
+}
+.nav{
+  color: black;
+}
 .un {
     color: black;
     padding-top: 10px;
@@ -115,7 +142,7 @@ i {
 }
 li{
     text-transform: uppercase;
-    font-family: 'Istok Web', sans-serif;
+    font-family: 'Domine', sans-serif;
     font-size: 45px;
     list-style-type: none;
 }
@@ -126,8 +153,7 @@ a
 }
 
 .real {
-    border-style: solid;
-    border-color:#5f48f2;
+  border-bottom: 1px solid#A1A1A1;
 
 }
 
@@ -137,12 +163,11 @@ a
     cursor: pointer;
 }
 .logo {
-  border: 4px;
-  border-style: solid;
-  border-color:#5f48f2;
   font-family: 'Montserrat', sans-serif;
   font-size: 28px ;
   text-align: center;
+  color:#5f48f2;
+  border: none;
 }
 
 .projectlink {
@@ -156,18 +181,19 @@ a
 .date{
   font-size: 20px;
   color: #494a47;
-  font-family: 'Istok Web', sans-serif;
+  font-family: 'Domine', sans-serif;
 }
 h3{
 
   color: #2d2d2d;
   font-family: 'Montserrat', sans-serif;;
-  font-size: 20px;
+  font-size: 34px;
 }
 .link{
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  border-bottom: 4px solid#5f48f2;
+  border: none;
+
 
 }
 a:hover{
@@ -175,9 +201,10 @@ a:hover{
   color :#7e84e7;
 }
 .link:hover{
-    border-bottom: 4px solid #7e84e7;
+    border: none;
   color :#7e84e7;
 }
 .top{
   padding-top: 10px;
+  padding-bottom: 30px;
 }

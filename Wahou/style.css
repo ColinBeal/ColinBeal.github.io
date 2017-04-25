@@ -44,13 +44,13 @@ body{ margin:0 0;
 
 
 h1 {
-    color: rgba(59, 20, 5, 0.65);
+    color: white;
     animation-delay: 0.5s;
     margin-top: 5%;
     padding-bottom: 50px;
     font-family: quicksand, serif;
-	
-   
+
+
 }
 
 
@@ -65,11 +65,11 @@ h1 {
 }
 @-webkit-keyframes fadeIn {
     0% {opacity: 0;}
-    100% {opacity: 0.7;}
+    100% {opacity: 0.9;}
 }
 @keyframes fadeIn {
     0% {opacity: 0;}
-    100% {opacity: 0.7;}
+    100% {opacity: 0.9;}
 }
 .fadeIn {
     -webkit-animation-name: fadeIn;
