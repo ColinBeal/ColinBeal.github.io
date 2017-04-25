@@ -107,17 +107,17 @@ body {
 
 h2{
     text-transform: uppercase;
-    color:#5f48f2;
+    color:#2d2d2d;
     font-family: 'Montserrat', sans-serif;
     font-size: 44px;
     text-align: left;
 
 }
 .nav{
-  color: black;
+  color: #2d2d2d;
 }
 .un {
-    color: black;
+    color: #2d2d2d;
     padding-top: 10px;
     cursor: pointer;
     font-size: 22px;
@@ -166,13 +166,13 @@ a
   font-family: 'Montserrat', sans-serif;
   font-size: 28px ;
   text-align: center;
-  color:#5f48f2;
+  color:#2d2d2d;
   border: none;
 }
 
 .projectlink {
   text-transform: uppercase;
-  color: #5f48f2;
+  color: #2d2d2d;
   font-family: 'Montserrat', sans-serif;;
   font-size: 16px;
 
