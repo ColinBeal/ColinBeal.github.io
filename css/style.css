@@ -15,49 +15,22 @@ body {
     text-align: justify;
 }
 
-.maintext {
-
-    text-transform: uppercase;
-    color:#5f48f2;
-    font-family: 'Montserrat', sans-serif;;
-    font-size: 44px;
-    text-align: center;
-    animation-duration: 5s;
-    animation-name: slidein;
-
-}
-.maintext4 {
-
-    text-transform: uppercase;
-    color: #A1A1A1;
-    font-family: 'Domine', sans-serif;;
-    font-size: 44px;
-    font-weight: 700;
-    text-align: center;
-    animation-duration: 5s;
-    animation-name: slidein;
-
-}
-.maintext4 {
-
-    text-transform: uppercase;
-    color: #A1A1A1;
-    font-family: 'Domine', sans-serif;;
-    font-size: 44px;
-    font-weight: 700;
-    text-align: center;
-    animation-duration: 5s;
-    animation-name: slidein;
-
-}
 .maintext5 {
 
-
+    text-align: left;
     color: #2d2d2d;
     font-family: 'Domine', sans-serif;;
     font-size: 34px;
     font-weight: 700;
+    margin-top: 40%;
+    letter-spacing: 0.0625em;
 
+}
+.discover {
+  margin-top: 50%;
+  text-align: center;
+  font-family: 'Domine', sans-serif;;
+  font-size: 24px;
 
 }
 .maintext2 {
@@ -207,4 +180,12 @@ a:hover{
 .top{
   padding-top: 10px;
   padding-bottom: 30px;
+}
+.fullscreen {
+  min-height: 80vh;
+  background-image: url(../images/photo2.png);
+  background-position: right;
+  background-repeat: no-repeat;
+
+
 }
