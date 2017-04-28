@@ -55,12 +55,12 @@ body {
 
 
 .aprop {
-    background-color: #ffffff;
-    color: #494a47;
-    font-size: 20px;
-    width: 90%;
-    margin-top: 3%;
-    text-align: justify;
+  background-color: #ffffff;
+  color: #494a47;
+  font-size: 20px;
+  width: 90%;
+  margin-top: 3%;
+  text-align: justify;
 }
 @keyframes slidein {
     from {
@@ -79,50 +79,50 @@ body {
 
 
 h2{
-    text-transform: uppercase;
-    color:#2d2d2d;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 44px;
-    text-align: left;
+  text-transform: uppercase;
+  color:#2d2d2d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 44px;
+  text-align: left;
 
 }
 .nav{
   color: #2d2d2d;
 }
 .un {
-    color: #2d2d2d;
-    padding-top: 10px;
-    cursor: pointer;
-    font-size: 22px;
+  color: #2d2d2d;
+  padding-top: 10px;
+  cursor: pointer;
+  font-size: 22px;
 }
 i {
-    color:#5f48f2;
-    cursor: pointer;
+  color:#5f48f2;
+  cursor: pointer;
 }
 
 
 
 .menu{
-    left:40%;
+  left:40%;
 }
 
 #overlay{
-    visibility: hidden;
+  visibility: hidden;
 }
 
 .liens{
-    background-color:#5f48f2;
+  background-color:#5f48f2;
 }
 li{
-    text-transform: uppercase;
-    font-family: 'Domine', sans-serif;
-    font-size: 45px;
-    list-style-type: none;
+  text-transform: uppercase;
+  font-family: 'Domine', sans-serif
+  font-size: 45px;
+  list-style-type: none;
 }
 a
 {
-    color: #494a47;
-    text-decoration: none;
+  color: #494a47;
+  text-decoration: none;
 }
 
 .real {
