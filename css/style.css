@@ -187,6 +187,10 @@ a:hover{
   background-image: url(../images/photo1.png);
   background-position: right;
   background-repeat: no-repeat;
-
-
+}
+p{
+  text-align: justify;
+}
+.hyperlink  {
+  color: #5f48f2;
 }
